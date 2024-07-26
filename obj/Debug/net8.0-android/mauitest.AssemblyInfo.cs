@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mauitest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+7646effd34de83ffe078a86345f4111a7dd0a80a")]
 [assembly: System.Reflection.AssemblyProductAttribute("mauitest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mauitest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

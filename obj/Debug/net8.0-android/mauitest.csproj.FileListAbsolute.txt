@@ -1048,3 +1048,4 @@
 /Users/enricoziehe/Projects/mauitest/bin/Debug/net8.0-android/Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
 /Users/enricoziehe/Projects/mauitest/bin/Debug/net8.0-android/Microsoft.VisualStudio.DesignTools.TapContract.dll
 /Users/enricoziehe/Projects/mauitest/obj/Debug/net8.0-android/mauitest.csproj.Up2Date
+/Users/enricoziehe/Projects/mauitest/obj/Debug/net8.0-android/mauitest.sourcelink.json
